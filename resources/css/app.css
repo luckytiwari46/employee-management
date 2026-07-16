@@ -1,0 +1,5 @@
+/* resources/css/app.css */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* your custom styles below */
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
